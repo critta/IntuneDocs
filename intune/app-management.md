@@ -32,7 +32,7 @@ ms.custom: intune-azure
 
 [!INCLUDE [azure_portal](./includes/azure_portal.md)]
 
-Microsoft Intune allows you, as the IT admin, to mange the mobile apps that your company's workforce uses. This functionality is in addition to managing devices and protecting data. As part of this functionality, one of your priorities is to make sure that your end users have access to the apps they need to do their work. This can be a challenge because:
+Microsoft Intune allows you, as the IT admin, to manage the mobile apps that your company's workforce uses. This functionality is in addition to managing devices and protecting data. As part of this functionality, one of your priorities is to make sure that your end users have access to the apps they need to do their work. This can be a challenge because:
 - There are a wide range of device platforms and app types.
 - You might need to manage apps on both company devices and user's own devices.
 - You must ensure your network and your data remain secure.
